@@ -1,0 +1,12 @@
+
+¡squid:UselessImportCheck"qRemove this unused import 'com.fordlabs.weatherapplication.ModelClasses.RetrofitInstance.RetrofitClientInstance'.(É³ºäûÿÿÿÿ8ÉÈØ‘»-
+™squid:UselessImportCheck"iRemove this unused import 'com.fordlabs.weatherapplication.ModelClasses.RetrofitInstance.RetrofitClient'.(°óƒıÿÿÿÿ8ÉÈØ‘»-
+Ysquid:UselessImportCheck"/Remove this unused import 'retrofit2.Callback'.(›¨,8ÉÈØ‘»-
+Vsquid:UselessImportCheck"+Remove this unused import 'retrofit2.Call'.(Çö÷›8ÉÈØ‘»-
+Zsquid:UselessImportCheck"/Remove this unused import 'retrofit2.Response'.(¾éçï8ÉÈØ‘»-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½¬¸ûÿÿÿÿ8ÙŸÛçº-
+squid:UselessImportCheck
+"^Remove this unused import 'com.fordlabs.weatherapplication.ModelClasses.NetworkLayer.Example'.(“ª€Åÿÿÿÿÿ8ÉÈØ‘»-
+asquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8ÉÈØ‘»-
+bsquid:UselessImportCheck"7Remove this unused import 'android.app.ProgressDialog'.(¶ÍÔÓ8ÓóÙ»-
+Esquid:S1068"'Remove this unused "TAG" private field.(Ö—ÈÚ8Æ÷ã»-

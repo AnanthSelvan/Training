@@ -1,0 +1,25 @@
+
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+“
+capp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/RetrofitInstance/RetrofitClient.java,4/7/47c5afed9d3a20536c86ad81926b24eafc83e296
+†
+Vapp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/NetworkLayer/Coord.java,a/0/a07588da0ff4893c810cc9e8d862102b3e6f478f
+ˆ
+Xapp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/NetworkLayer/Weather.java,7/1/712921b736cbcf7cefbe0cfbabbcb77f21d6d4a2
+Š
+Zapp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/NetworkLayer/MainValue.java,9/f/9f224ff1a07eb57de8ae8a58320ae28ce52e5088
+›
+kapp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/RetrofitInstance/RetrofitClientInstance.java,d/e/de90b34a77fcf3d1259afeb8e80d086f2ca46a01
+ƒ
+Sapp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/UI/MainActivity.java,7/7/7708505f957f6d9d863abd8be59f9b3cc3a786af
+Œ
+\app/src/main/java/com/fordlabs/weatherapplication/ModelClasses/Adapter/ViewPagerAdapter.java,5/0/503fd6e1a9bf5e5cbfc1da54e6330b0f0cb41173
+~
+Napp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/UI/CityTwo.java,2/0/2039a2b9658ffe884fd0181a582d48735d411b42
+~
+Napp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/UI/CityOne.java,b/f/bf5cea195e7a0b26c59737e3479508749edb2ca7
+ˆ
+Xapp/src/main/java/com/fordlabs/weatherapplication/ModelClasses/NetworkLayer/Example.java,4/b/4bb7dc8b2db07487c8a424859ab8b2c1f9d51998

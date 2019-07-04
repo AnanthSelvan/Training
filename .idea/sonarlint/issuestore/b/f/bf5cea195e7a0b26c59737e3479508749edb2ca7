@@ -1,0 +1,4 @@
+
+qsquid:S1450"SRemove the "view" field and declare it as a local variable in the relevant methods.(ΨΚ»¶8ν“Τ‘»-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½¬Έϋÿÿÿÿ
+"squid:ClassVariableVisibilityCheck "SMake getData a static final constant or non-public and provide accessors if needed.(ήδ¥ª8‡ξ‘»-
