@@ -15,8 +15,6 @@ import com.fordlabs.weatherapplication.ModelClasses.RetrofitInstance.RetrofitCli
 import com.fordlabs.weatherapplication.ModelClasses.RetrofitInstance.RetrofitClientInstance;
 import com.fordlabs.weatherapplication.R;
 
-import org.w3c.dom.Text;
-
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -43,7 +41,7 @@ public class CityTwo extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         view = inflater.inflate(R.layout.fragment_city_two, container, false);
-        city = view.findViewById(R.id.city);
+        city = view.findViewById(R.id.temperature);
         temperature = view.findViewById(R.id.temperature);
         description = view.findViewById(R.id.description);
         context = view.getContext();

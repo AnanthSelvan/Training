@@ -1,5 +1,5 @@
 
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½¬¸ûÿÿÿÿ
+qsquid:S1450"SRemove the "view" field and declare it as a local variable in the relevant methods.(ØÊ»¶8’¨“’»-
+ˆ"squid:ClassVariableVisibilityCheck "SMake getData a static final constant or non-public and provide accessors if needed.(Şä¥ª8Èè¥’»-
 ]squid:UselessImportCheck"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹şÿÿÿÿ8¤À’»-
-ˆ"squid:ClassVariableVisibilityCheck""SMake getData a static final constant or non-public and provide accessors if needed.(Şä¥ª8Èè¥’»-
-qsquid:S1450 "SRemove the "view" field and declare it as a local variable in the relevant methods.(ØÊ»¶8’¨“’»-

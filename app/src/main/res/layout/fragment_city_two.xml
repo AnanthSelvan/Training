@@ -10,7 +10,7 @@
 
 
     <TextView
-        android:id="@+id/city"
+        android:id="@+id/temperature"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -31,7 +31,7 @@
         android:textSize="40dp"
         android:textStyle="italic"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/city" />
+        app:layout_constraintTop_toBottomOf="@+id/temperature" />
 
     <TextView
         android:id="@+id/description"

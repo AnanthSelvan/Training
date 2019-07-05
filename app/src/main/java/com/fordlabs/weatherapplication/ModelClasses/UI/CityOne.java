@@ -35,7 +35,6 @@ public class CityOne extends Fragment {
         // Required empty public constructor
     }
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -47,7 +46,6 @@ public class CityOne extends Fragment {
         description = view.findViewById(R.id.description);
         generateData();
         return view;
-
     }
 
     public void setViewData(Example data) {
@@ -55,7 +53,6 @@ public class CityOne extends Fragment {
         cityName.setText(data.getName());
         temperature.setText(String.valueOf(data.mainValue.getTemp()));
         description.setText(data.weather.get(0).description);
-
     }
 
     public void generateData() {

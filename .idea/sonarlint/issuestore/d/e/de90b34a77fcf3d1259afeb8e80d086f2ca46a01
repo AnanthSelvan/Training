@@ -1,4 +1,4 @@
 
 [squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8øÜïˆ»-
-bsquid:UselessImportCheck	"2Remove this unused import 'retrofit2.http.Header'.(˜úº”ùÿÿÿÿ8’Ñˆ»-
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š–Ù¨ùÿÿÿÿ
+bsquid:UselessImportCheck	"2Remove this unused import 'retrofit2.http.Header'.(˜úº”ùÿÿÿÿ8’Ñˆ»-
