@@ -7,8 +7,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/water">
 
-
-
     <TextView
         android:id="@+id/temperature"
         android:layout_width="255dp"
